@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "rickandmortyapi",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Atlantiskun/RickAndMortyAPI",
+      "state" : {
+        "branch" : "main",
+        "revision" : "93d5073b35b6be8160cc91dde4708e105beeb2ce"
+      }
+    }
+  ],
+  "version" : 2
+}
